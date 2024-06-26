@@ -1,4 +1,8 @@
 /*
+ * Marcell Magyar
+ * mbmagyar@wisc.edu
+ * CS: marcell
+ *
  * Test the use of the Color method
  */
 import java.util.*;

@@ -1,4 +1,10 @@
+
+
 /*
+ * Marcell Magyar
+ * mbmagyar@wisc.edu
+ * CS: marcell
+ *
  *	Color class
  */
 public class Color{
